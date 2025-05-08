@@ -28,3 +28,5 @@ objs751/
 .vs/
 *.VC.db
 *.VC.VC.opendb
+
+*.zip
